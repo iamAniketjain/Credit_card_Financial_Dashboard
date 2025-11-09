@@ -67,7 +67,7 @@ CALCULATE(
 Profit Margin = 
 DIVIDE([Total Revenue] - [Total Cost], [Total Revenue])
 ```
-##🧩 Visualizations
+🧩 Visualizations
 
 -The Power BI dashboard includes:
 
